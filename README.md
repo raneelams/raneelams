@@ -52,6 +52,13 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨! I am a
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raneelams&theme=tokyonight" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raneelams&label=Profile%20views&color=0e75b6&style=flat" alt="raneelams" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raneelams" alt="raneelams" /></a> </p>
+
+[<p align="left"> <a href="https://twitter.com/_devsid" target="blank"><img src="https://img.shields.io/twitter/follow/_devsid?logo=twitter&style=for-the-badge" alt="_devsid" /></a> </p>](url)
+
+
 
 
 
