@@ -56,7 +56,7 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨! I am a
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raneelams" alt="raneelams" /></a> </p>
 
-[<p align="left"> <a href="https://twitter.com/_devsid" target="blank"><img src="https://img.shields.io/twitter/follow/_devsid?logo=twitter&style=for-the-badge" alt="_devsid" /></a> </p>](url)
+
 
 
 
