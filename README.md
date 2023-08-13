@@ -49,7 +49,7 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨! I am a
 
 
 
-  <img width="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raneelams&theme=tokyonight">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raneelams&theme=tokyonight">
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raneelams&show_icons=true&theme=tokyonight" /> &nbsp
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raneelams&theme=tokyonight" />
