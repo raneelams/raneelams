@@ -21,7 +21,7 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨! I am a
 - 👯 I’m looking to collaborate on any Open Source Project involving javascript :heart:
 - 💬 Ask me about anything! I am happy to help and guide you. 
 - 📫 How to reach me: <a href="https://t.me/Ramesh_RockStar" target="_blank" rel="noreferrer">Click here</a> 👋
-- ⚡ Fun fact: Always chin up to the sky, and enjoy the world.
+- ⚡ Fun fact: There are more 700 coding langaues out there!
 
 ## 💼 Technical Skills
 
